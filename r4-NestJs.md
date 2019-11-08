@@ -32,5 +32,3 @@ Nest is platform-agnostic framework
 - linter --fix
 
 Objection ORM
-
-
